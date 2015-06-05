@@ -1,16 +1,14 @@
-
 public Class Calculator {
 	
 	public static void main(String[] args) throws Exception {
-		int a = 1;
-		int b = 2;
+		int num1 = 1;
+		int num2 = 2;
 		
-		new Calculator().add(a, b);
+		new Calculator().add(num1, num2);
 	}
 	
-	public int add(int a, int b) {
-		return a + b;
+	public int add(int num1, int num2) {
+		return num1 + num2;
 	}
-	
 	
 }
