@@ -1,3 +1,3 @@
 # calculator2
-githud ½Ç½À
-Å×½ºÆ®¸¦ À§ÇÑ ¼öÁ¤ - choiyh44
+githud ì‹¤ìŠµ
+í…ŒìŠ¤íŠ¸ë¥¼ ìœ„í•œ ìˆ˜ì • - choiyh44
